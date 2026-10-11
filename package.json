@@ -1,0 +1,8 @@
+{
+  "name": "d1-lacrosse-thread-bot-starter",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {"test": "node --test", "preview": "node examples/preview.mjs"},
+  "engines": {"node": ">=22"}
+}
